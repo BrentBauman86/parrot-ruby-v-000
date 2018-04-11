@@ -5,6 +5,5 @@ def parrot(speak = "Squawk!")
 "Squawk!"
 puts "#{speak}"
 name = "Pretty bird!"
-puts name.reverse
 return name
 end
