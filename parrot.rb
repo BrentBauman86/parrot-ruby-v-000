@@ -4,6 +4,5 @@
 def parrot(speak = "Squawk!")
 "Squawk!"
 puts "#{speak}"
-name = "Pretty bird!"
-return name
+puts "Pretty bird!"
 end
