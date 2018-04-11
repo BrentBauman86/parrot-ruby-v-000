@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot(speak = "Squawk!")
-  puts "My dang bird loves to #{speak}."
+  puts "#{speak}."
 end
 
 parrot
