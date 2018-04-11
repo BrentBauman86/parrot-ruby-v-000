@@ -4,7 +4,3 @@
 def parrot(speak = "Squawk!")
   puts "#{speak}"
 end
-
-parrot("Pretty bird!")
-parrot = speak
-
