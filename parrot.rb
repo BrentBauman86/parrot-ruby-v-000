@@ -1,8 +1,8 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot(goofas = "Squawk!")
-  puts "My dang bird loves to #{"Squawk!"}."
+def parrot(speak = "Squawk!")
+  puts "My dang bird loves to #{speak}."
 end
 
 parrot
