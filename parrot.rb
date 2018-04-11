@@ -4,3 +4,5 @@
 def parrot(goofas = "Squawk!")
   puts "My dang bird loves to #{goofas}."
 end
+
+parrot 
